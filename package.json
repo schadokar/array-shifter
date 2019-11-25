@@ -1,0 +1,11 @@
+{
+  "name": "arrayshifter",
+  "version": "1.0.0",
+  "description": "Insert the data into a fixed array and shift the array to right or left. While inserting it removes the first data with respect to the shifting operation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shubham Chadokar",
+  "license": "ISC"
+}
