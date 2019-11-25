@@ -5,7 +5,7 @@ While inserting it removes the first data with respect to the shifting operation
 
 ## Installation  
 ```
-npm install array-shiter --save
+npm install array-shifter --save
 ```
 
 ## Methods   
