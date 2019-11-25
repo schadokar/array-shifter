@@ -28,7 +28,7 @@ while keeping the array of fixed length
  
 ## Example   
 ```
-const ArrayShifter = require("arrayshifter");  
+const ArrayShifter = require("array-shifter");  
 
 // Create a dummy array
 const arr = [1, 2, 3, 4, 5, 6, 7, 8];  
