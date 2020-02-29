@@ -84,3 +84,20 @@ console.log(shift.arrayLength);
 console.log(shift.arr);
 
 ```
+
+# Author  
+
+#### :sun_with_face: Shubham Kumar Chadokar  
+
+I am software engineer and love to write articles and tutorials on golang, blockchain, and nodejs.  
+Please checkout my other articles on :link: https://schadokar.dev :tada:
+
+---
+
+# License
+
+MIT License
+
+Copyright (c) 2020 Shubham Chadokar
+
+---
