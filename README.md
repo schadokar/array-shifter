@@ -62,7 +62,7 @@ const shiftL = new ArrayShifter(5);
 
 arr.forEach(e => {
   // push the data into the array  
-  shiftL.shiftRight(e);  
+  shiftL.shiftLeft(e);  
   // print the array  
   console.log(shiftL)  
 });
